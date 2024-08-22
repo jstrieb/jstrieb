@@ -1,5 +1,9 @@
 <div align="center">
 
+[Click here for a full list of my projects.](https://jstrieb.github.io/projects/)
+
+---
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
@@ -13,10 +17,3 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 </a>
 
 </div>
-
----
-
-Scammers have been impersonating me. I will never send emails asking for
-cryptocurrency or offering to “hack” people. If you receive emails from people
-claiming to be me, [please forward them to
-me](https://jstrieb.github.io/about/#contact).
