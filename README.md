@@ -1,6 +1,6 @@
 <div align="center">
 
-[Click here for a full list of my projects.](https://jstrieb.github.io/projects/)
+## [Click here for a full list of my projects.](https://jstrieb.github.io/projects/)
 
 ---
 
